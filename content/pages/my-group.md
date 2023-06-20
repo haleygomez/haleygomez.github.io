@@ -1,10 +1,13 @@
----
-Title: The Team
-Date: 2022-03-03 10:20
-slug: my-group
----
++++
+date = "2015-08-09T15:04:41+01:00"
+draft = false
+title = "The Team"
+[menu.main]
+name = "The Team"
+weight = 5
++++
 
-#### Fellows and Research Assistants
+#### Past Fellows and Research Assistants
 
 ![loretta][10]
 
@@ -38,7 +41,7 @@ Hannah Chawner (graduated 2021,  now working in industry, jointly supervised wit
 
 ![jeni][5]
 
-Jeni Millard (Oct 2016)
+Jeni Millard (graduated 2021)
 
 ![clark][1]
 
