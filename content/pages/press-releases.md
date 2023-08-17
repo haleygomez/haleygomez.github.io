@@ -31,7 +31,6 @@ Noble gas found in space (Barlow et al. 2013)
 * [Supernova dust factories][37]
 * [Stunning new images with Herschel Space Observatory][38]
 
-[Proudly powered by WordPress][39]
 
 [1]: http://haley.gomez.me.uk/
 [2]: http://haley.gomez.me.uk/academic-cv/
@@ -70,7 +69,6 @@ Noble gas found in space (Barlow et al. 2013)
 [36]: http://haley.gomez.me.uk/the-herschel-reference-survey-results/
 [37]: http://haley.gomez.me.uk/supernova-dust-factories/
 [38]: http://haley.gomez.me.uk/stunning-new-images-with-herschel/
-[39]: http://wordpress.org/
 [40]: https://www.cardiff.ac.uk/news/view/1371708-glass-made-from-exploding-stars
 [41]: https://www.cardiff.ac.uk/news/view/1204753-birthday-honours-2018
 [42]: https://www.cardiff.ac.uk/news/view/2707338-inspiring-young-people-to-live-a-life-scientific
