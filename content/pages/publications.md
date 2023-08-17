@@ -1,12 +1,7 @@
-+++
-date = "2015-08-09T14:24:21+01:00"
-draft = false
-title = "Publications"
-[menu.main]
-name = "Publications"
-weight = 2
+Date: 2023-08-17T19:43:44+01:00
+Title: Publications
+slug: publications
 
-+++
 I have published 127 research papers since my first paper in 2003, publishing in ApJ, MNRAS, Nature, Science and ApJ Letters with a total of 10000+ citations. Go to [my Google Scholar page](https://scholar.google.co.uk/citations?user=Hk6f2h8AAAAJ&hl=en) or see my [full list of publications on my Cardiff University profile page](https://www.astro.cf.ac.uk/contactsandpeople/?page=full&id=151).
 
 A select list of non-academic/non-refereed pieces of work are shown below. I have published under the names Gomez, H.L and Morgan H.L.

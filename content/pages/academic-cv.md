@@ -1,11 +1,7 @@
-+++
-date = "2015-08-09T14:21:13+01:00"
-draft = false
-title = "Academic CV"
-[menu.main]
-name = "Academic CV"
-weight = 4
-+++
+Date: 2023-08-17T19:43:44+01:00
+Title: Academic CV
+slug: academic-cv
+
 ## Current position
 
 2015- Present: Professor at Cardiff University, ERC Consolidator grant awardee  

@@ -1,9 +1,7 @@
-+++
-date = "2015-08-09T15:05:43+01:00"
-draft = true
-title = "Press Releases"
+Date: 2023-08-17T19:43:44+01:00
+Title: Press Releases
+slug: press
 
-+++
 [The Life Scientific Podcast][42] - download a conversation between myself and Prof Jim Al-Khalili on BBC Sounds [here][43]
 [Glass discovered in exploding stars][40] - (Rho, Gomez et al. 2018)
 [Awarded an MBE][41] for contribution to research and outreach

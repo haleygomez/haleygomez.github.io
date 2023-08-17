@@ -1,11 +1,7 @@
-+++
-date = "2015-08-09T15:04:41+01:00"
-draft = false
-title = "The Team"
-[menu.main]
-name = "The Team"
-weight = 5
-+++
+Date: 2023-08-17T19:43:44+01:00
+Title: The Team
+slug: my-group
+
 
 #### Past Fellows and Research Assistants
 
